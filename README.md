@@ -73,7 +73,10 @@ The system was tested under four rider conditions (helmet/no helmet & drunk/sobe
 ## 📷 Screenshots
 
 - Transmitter and receiver setup
+- ![image](https://github.com/user-attachments/assets/e60ef135-9857-48ed-8193-6a4bcd9ff3fd)
+
 - SMS alert with GPS location
+-![image](https://github.com/user-attachments/assets/2a3708b4-a5f9-4cd4-ae01-c876d159faa4)
 
 ---
 
